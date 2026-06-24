@@ -1,6 +1,6 @@
 # WearMe — Datos de investigación
 
-Datos de campo del proyecto **[WearMe](https://github.com/juancamiloamarillo41-cloud/wearme)**, un wearable IoT para la detección de **metano entérico (eructos) en ganado bovino** con Machine Learning embebido.
+Datos de campo del proyecto **[WearMe](https://github.com/juancamiloamarillo41-cloud/wearme)**, un wearable IoT para la detección de **metano entérico (eructos) en ganado bovino** con Machine Learning embebido, desarrollado en el **Instituto iOMICAS** de la Pontificia Universidad Javeriana.
 
 ## Contenido
 
@@ -12,4 +12,4 @@ Datos de campo del proyecto **[WearMe](https://github.com/juancamiloamarillo41-c
 El firmware (nRF52840 + Edge Impulse) y la app Android (Kotlin/Compose) están en 👉 **[github.com/juancamiloamarillo41-cloud/wearme](https://github.com/juancamiloamarillo41-cloud/wearme)**
 
 ---
-**Autor:** Juan Camilo Amarillo Morales · Ingeniería Mecatrónica, Pontificia Universidad Javeriana
+**Autor:** Juan Camilo Amarillo Morales · Ingeniería Mecatrónica · Instituto iOMICAS, Pontificia Universidad Javeriana
